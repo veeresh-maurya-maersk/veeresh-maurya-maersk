@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ⚡ Fun fact:
-- 🌍 I dream of deploying an app from a beach in Bali. Code, surf, repeat! 🏖️
 - 🌱 I'm passionate about sustainability and technology's role in creating a greener future. Let's code for a better planet!
